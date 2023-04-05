@@ -9,7 +9,7 @@ I'm a Hungarian computer science student and a wannabe software developer. I lik
 - [Ossia](https://github.com/shie1/ossia), a free, open source alternative to YouTube Music
 - [Windows Activation Tool](https://github.com/shie1/windows-activation-tool), a simple script to activate Windows for free
 - [Splatter](https://github.com/shie1/splatter), a Spotify bot made in Python
-- [Menetrendek.info](https://github.com/shie1/menetrendek), a hungarian timetable search engine
+- [Menetrendek.info](https://github.com/menetrendek-info/webmenetrend), a hungarian timetable search engine
 
 ## 🌱 I’m currently learning ...
 
