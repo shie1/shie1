@@ -19,7 +19,7 @@ I'm a Hungarian computer science student and a wannabe software developer. I lik
 
 ## 📫 How to reach me ...
 
-- Email: shie1bi@gmail.com
+- Email: shibibence@gmail.com
 - Twitter: [@shie1bi](https://twitter.com/shie1bi)
 
 ## ⚡ Fun fact ...
