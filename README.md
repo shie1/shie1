@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/shie1?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/shie1bi?style=social)
 
-I'm a Hungarian computer science student and a wannabe software developer. I like to learn new things and create cool projects.
+I'm a Hungarian computer science student. I like to learn new things and create cool projects.
 
 ## 🔭 I’m currently working on ...
 
