@@ -6,6 +6,7 @@ I'm a Hungarian computer science student. I like to learn new things and create 
 
 ## 🔭 I’m currently working on ...
 
+- [SwiftCard](https://swiftcard.hu): a stylish digital business card.
 - [Shibi-YTDL](https://github.com/shie1/shibi-ytdl), the internet's fastest YouTube downloader.
 - [Ossia](https://github.com/shie1/ossia), a free, open source alternative to YouTube Music
 - [Windows Activation Tool](https://github.com/shie1/windows-activation-tool), a simple script to activate Windows for free
