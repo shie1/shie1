@@ -60,7 +60,7 @@ Want to contribute to any of my projects? Great! Every pull request and issue ge
 - 🌍 I work as a Logiscool instructor, helping the next generation of programmers discover the world of coding
 - 🎵 I'm a hobbyist musician and I usually listen to music while coding
 - 🎥 I make YouTube videos critiquing products and services
-- 🎮 Scratch and Discord Bot Maker were the two biggest inspirations for my career
+- 🎮 [Scratch](https://scratch.mit.edu/) and [Discord Bot Maker](https://store.steampowered.com/app/682130/Discord_Bot_Maker/) were the two biggest inspirations for my career
 
 ---
 
