@@ -9,7 +9,7 @@ Hello! I'm Bence, a Hungarian computer science student and passionate software d
 ### 🌐 Web Applications
 - **[SwiftCard](https://swiftcard.hu)** - Stylish digital business card platform
 - **[shWeb](https://shweb.hu)** - My business website
-- **[Menetrendek.info](https://github.com/menetrendek-info/webmenetrend)** - Frontend revamp of the original menetrendek.hu, no longer active, due to the original website enforcing limits on the number of requests
+- **[Menetrendek.info (archive)](https://github.com/menetrendek-info/webmenetrend)** - Frontend revamp of the original menetrendek.hu, no longer active, due to the original website enforcing limits on the number of requests
 
 ### 🎵 Music & Media
 - **[Ossia (archive)](https://github.com/shie1/ossia)** - Free, open source YouTube Music alternative, now deprecated
