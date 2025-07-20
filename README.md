@@ -46,6 +46,14 @@ Hello! I'm Bence, a Hungarian computer science student and passionate software d
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shie1&layout=compact&theme=radical)
 
+## 💼 Business
+
+I work as a freelance software developer under the **shWeb** brand, specializing in:
+
+- **Web Development**: Designing, developing, and maintaining websites
+- **Software Development**: Creating custom software solutions, primarily internal enterprise applications
+- **Full-Stack Solutions**: End-to-end development from concept to deployment
+
 ## 📫 Contact
 
 - 📧 **Email**: [sonkoly.bence.ev@gmail.com](mailto:sonkoly.bence.ev@gmail.com)
