@@ -2,14 +2,16 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/shie1?style=social) ![GitHub stars](https://img.shields.io/github/stars/shie1?style=social)
 
-Hello! I'm Bence, a Hungarian computer science student and passionate software developer. I love learning new technologies and creating useful projects.
+Hello! I'm Bence, a 19-year-old Hungarian software developer. I love learning new technologies and creating useful projects. I currently study Communication and Media Studies at ELTE.
 
 ## 🚀 Main Projects
 
 ### 🌐 Web Applications
+- **[Menetrendek.info (archive)](https://github.com/menetrendek-info/webmenetrend)** - Frontend revamp of the original menetrendek.hu, no longer active, due to the original website enforcing limits on the number of requests
+
+Currently private:
 - **[SwiftCard](https://swiftcard.hu)** - Stylish digital business card platform
 - **[shWeb](https://shweb.hu)** - My business website
-- **[Menetrendek.info (archive)](https://github.com/menetrendek-info/webmenetrend)** - Frontend revamp of the original menetrendek.hu, no longer active, due to the original website enforcing limits on the number of requests
 
 ### 🎵 Music & Media
 - **[Ossia (archive)](https://github.com/shie1/ossia)** - Free, open source YouTube Music alternative, now deprecated
@@ -42,18 +44,9 @@ Hello! I'm Bence, a Hungarian computer science student and passionate software d
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-232F3E?style=for-the-badge&logo=portainer&logoColor=white)
 
-## 💼 Business
-
-I work as a freelance software developer under the **shWeb** brand, specializing in:
-
-- **Web Development**: Designing, developing, and maintaining websites
-- **Software Development**: Creating custom software solutions, primarily internal enterprise applications
-- **Full-Stack Solutions**: End-to-end development from concept to deployment
-
 ## 📫 Contact
 
 - 📧 **Email**: [sonkoly.bence.ev@gmail.com](mailto:sonkoly.bence.ev@gmail.com)
-- 🌐 **Website**: [shweb.hu](https://shweb.hu)
 
 ## 🤝 Contributing
 
